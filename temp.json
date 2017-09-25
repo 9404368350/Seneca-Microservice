@@ -1,0 +1,68 @@
+[
+  {
+    "index": 0,
+    "age": 27,
+    "eyeColor": "brown",
+    "name": "Mitchell Stone",
+    "gender": "male",
+    "company": "KONGLE",
+    "email": "mitchellstone@kongle.com",
+    "phone": "+1 (978) 428-3560",
+    "address": "266 Brooklyn Road, Faywood, Texas, 4242"
+  },
+  {
+    "index": 1,
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Hilda Morrison",
+    "gender": "female",
+    "company": "ZENTIA",
+    "email": "hildamorrison@zentia.com",
+    "phone": "+1 (839) 453-2738",
+    "address": "568 Rutledge Street, Juarez, Utah, 6657"
+  },
+  {
+    "index": 2,
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Danielle Duncan",
+    "gender": "female",
+    "company": "ZANILLA",
+    "email": "danielleduncan@zanilla.com",
+    "phone": "+1 (950) 583-2005",
+    "address": "111 Clark Street, Indio, Palau, 822"
+  },
+  {
+    "index": 3,
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Miles Gibbs",
+    "gender": "male",
+    "company": "COMVENE",
+    "email": "milesgibbs@comvene.com",
+    "phone": "+1 (934) 581-2903",
+    "address": "630 Lefferts Avenue, Summerfield, North Carolina, 713"
+  },
+  {
+    "index": 4,
+    "age": 24,
+    "eyeColor": "blue",
+    "name": "Latonya Huber",
+    "gender": "female",
+    "company": "CODAX",
+    "email": "latonyahuber@codax.com",
+    "phone": "+1 (868) 577-3160",
+    "address": "320 Oxford Walk, Roderfield, Connecticut, 9035"
+  },
+  {
+    "index": 5,
+    "age": 31,
+    "eyeColor": "blue",
+    "name": "Jewel Nelson",
+    "gender": "female",
+    "company": "PARLEYNET",
+    "email": "jewelnelson@parleynet.com",
+    "phone": "+1 (972) 572-3667",
+    "address": "223 Will Place, Graball, Louisiana, 6572"
+  }
+]
